@@ -1,4 +1,8 @@
 # BCPL
+This may be a dead end.  Altho the compiler compiles to x86, is does
+not understand all the BCPL syntax WRT the ALTO operating system.
+
+I am suspending work on this for the time being.
 
 Get a BCPL compiler running so that the xerox parc ALTO operating
 system code can be compiled in a linux environment.
