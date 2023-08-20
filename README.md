@@ -11,6 +11,10 @@ CPU boards.
 Below is the original README from the distro I copied.  I will
 include the Copyright at the end.
 
+8/20/23 An interest point.  Code compiled on an X86 based Linux
+distro with the BCPL compiler, runs on Linux.  This should make
+testing code much faster.
+
 8/20/23 is the starting date of this new project, at this time I
 am setting up a github repo the allow development to proceed.
 
